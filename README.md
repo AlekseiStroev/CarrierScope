@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/AlekseiStroev/CarrierScope/blob/main/47B85726-51E2-4AE7-88CF-5A15DA5A4FC9.png" alt="CarrierScope Logo" width="180" />
+  <img src="./logo.png" width="200" alt="CarrierScope Logo"/>
 </p>
 
 <h1 align="center">CarrierScope</h1>
