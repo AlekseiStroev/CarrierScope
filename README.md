@@ -53,6 +53,32 @@ It helps logistics companies make data-driven decisions by providing transparenc
 2. ⏳ Frontend MVP (broker analytics dashboard)  
 3. 🚀 Public beta launch and user feedback collection  
 
+------
+
+## 🧩 Tech Stack
+
+| Layer | Technologies |
+|-------|---------------|
+| **Frontend** | React · TypeScript · TailwindCSS |
+| **Backend** | Node.js (Express) · PostgreSQL |
+| **Infrastructure** | AWS (S3, EC2) · GitHub Actions CI/CD |
+| **Analytics & Monitoring** | Grafana · Prometheus |
+
 ---
+
+## ⚙️ Installation & Usage
+
+```bash
+# Clone the repository
+git clone https://github.com/AlekseiStroev/CarrierScope.git
+
+# Navigate to the project
+cd CarrierScope
+
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
 
 © 2025 **CarrierScope** — *Quality Intelligence for Freight Brokerage*
