@@ -84,6 +84,7 @@ npm run dev
 │   └── utils/
 ├── public/
 ├── package.json
-└── README.md```
+└── README.md
+```
 ### 🧠 Contributing
 Pull requests are welcome! ...
