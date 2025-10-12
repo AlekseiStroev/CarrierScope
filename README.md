@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo.png" width="200" alt="CarrierScope Logo"/>
+  <img src="./logo.png.PNG" alt="CarrierScope Logo" width="220">
 </p>
 
 <h1 align="center">CarrierScope</h1>
