@@ -94,7 +94,7 @@ Pull requests are welcome! ...
 
 Check out how CarrierScope will look in action 👇  
 
-![CarrierScope Dashboard Preview](https://github.com/AlekseiStroev/CarrierScope/assets/demo-preview.png)
+![CarrierScope Dashboard Preview](https://github.com/AlekseiStroev/CarrierScope/blob/main/22954BD2-9C06-40D2-A0FA-DE6B8CBC5DD5.png)
 
 *(The live dashboard will be added soon — stay tuned!)*
 
