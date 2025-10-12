@@ -92,9 +92,15 @@ Pull requests are welcome! ...
 
 ## 📸 Demo & Preview
 
-Check out how CarrierScope will look in action 👇  
+Check out how CarrierScope will look in action 👇
 
-![CarrierScope Dashboard Preview](https://github.com/AlekseiStroev/CarrierScope/blob/main/22954BD2-9C06-40D2-A0FA-DE6B8CBC5DD5.png)
+<p align="center">
+  <img src="https://github.com/AlekseiStroev/CarrierScope/blob/main/22954BD2-9C06-40D2-A0FA-DE6B8CBC5DD5.png" alt="CarrierScope Dashboard Preview" width="800" style="border-radius:10px; border:1px solid #ccc;" />
+</p>
+
+<p align="center"><em>CarrierScope — Analytics dashboard for freight brokers and carriers</em></p>
+
+---
 
 *(The live dashboard will be added soon — stay tuned!)*
 
