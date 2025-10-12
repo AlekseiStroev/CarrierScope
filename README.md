@@ -1,52 +1,60 @@
 <p align="center">
-  <img src="./47B85726-51E2-4AE7-88CF-5A15DA5A4FC9.png" width="180" alt="CarrierScope Logo">
-</p>
-
-<h1 align="center">CarrierScope</h1>
-
-<p align="center">
-  <strong>Quality Intelligence for Logistics</strong><br>
-  SaaS platform for analyzing, monitoring, and rating freight brokers and carriers across the U.S.
+  <img src="./logo.png" width="160" alt="CarrierScope Logo">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-active-brightgreen" alt="status">
-  <img src="https://img.shields.io/badge/license-MIT-blue" alt="license">
-  <img src="https://img.shields.io/badge/version-1.0.0-orange" alt="version">
+  <a href="https://alekseistroev.github.io/CarrierScope" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-blue?style=for-the-badge" alt="Live Demo">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square">
+  <img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/version-1.0.0-orange?style=flat-square">
 </p>
 
 ---
 
-## 🚚 What the Platform Does
+# CarrierScope  
+**Quality Intelligence for Logistics**
 
-- Allows shippers and carriers to **rate and review freight brokers** based on real experiences  
-- Displays **analytics dashboards**, performance scores, and reliability statistics  
-- Helps logistics companies **track partner reputation and service quality** before making deals  
-
----
-
-## 🧭 Key Features
-
-- 📊 **Interactive Dashboard** with broker statistics and analytics  
-- 🗣️ **User review system** for verified carriers and brokers  
-- ⚙️ **Automated reporting** on service performance and reliability  
-- 🔔 **Email alerts** and live data updates  
-- 🧠 **AI-based review sentiment analysis** *(in progress)*  
+CarrierScope is a SaaS platform designed to analyze and monitor the performance of freight brokers and carriers across the U.S.  
+It helps logistics companies make data-driven decisions by providing transparency, analytics, and verified community feedback.
 
 ---
 
-## 🧩 Tech Stack
+### 🚛 What the Platform Does
 
-| Layer | Technologies |
-|-------|---------------|
-| **Frontend** | React · TypeScript · TailwindCSS |
-| **Backend** | Node.js (Express) · PostgreSQL |
+- Allows shippers and carriers to **rate and review freight brokers** based on real-world experience  
+- Displays **analytics dashboards**, reliability scores, and performance charts  
+- Helps companies **track partner reputation and service quality** before making deals
+
+---
+
+### 🧭 Key Features
+
+- 📊 Interactive dashboard with real-time analytics  
+- 📝 Verified broker review and rating system  
+- ⚙️ Automated service quality reports  
+- 🔔 Email alerts and live notifications  
+- 💬 AI-driven feedback categorization (in progress)
+
+---
+
+### 🧩 Tech Stack
+
+| Category | Technologies |
+|-----------|---------------|
+| **Frontend** | React · TypeScript |
+| **Backend** | Node.js · Express |
+| **Database** | PostgreSQL |
 | **Infrastructure** | AWS (S3, EC2) · GitHub Actions CI/CD |
 | **Analytics & Monitoring** | Grafana · Prometheus |
 
 ---
 
-## 🧱 Roadmap
+### 🗺 Roadmap
 
 1. ✅ CI/CD workflows via GitHub Actions  
 2. 🧩 Frontend MVP — Broker Analytics Dashboard  
@@ -54,7 +62,7 @@
 
 ---
 
-## ⚙️ Installation
+### ⚙️ Installation
 
 ```bash
 # Clone the repository
