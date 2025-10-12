@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlekseiStroev/CarrierScope/main/logo.png" width="180" alt="CarrierScope Logo">
+</p>
+
 [![CI](https://github.com/AlekseiStroev/CarrierScope/actions/workflows/ci.yml/badge.svg)](https://github.com/AlekseiStroev/CarrierScope/actions/workflows/ci.yml)
 [![coverage](https://img.shields.io/endpoint?url=https://AlekseiStroev.github.io/CarrierScope/badges/coverage.json)](https://AlekseiStroev.github.io/CarrierScope/frontend-coverage/)
 [![Pages](https://img.shields.io/badge/Pages-Reports-blue)](https://AlekseiStroev.github.io/CarrierScope/)
