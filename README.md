@@ -1,4 +1,5 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/AlekseiStroev/CarrierScope/<p align="center">
   <img src="https://raw.githubusercontent.com/AlekseiStroev/CarrierScope/main/logo.png" width="180" alt="CarrierScope Logo">
 </p>
 
