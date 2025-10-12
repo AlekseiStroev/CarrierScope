@@ -88,3 +88,31 @@ npm run dev
 ```
 ### 🧠 Contributing
 Pull requests are welcome! ...
+---
+
+## 📸 Demo & Preview
+
+Check out how CarrierScope will look in action 👇  
+
+![CarrierScope Dashboard Preview](https://github.com/AlekseiStroev/CarrierScope/assets/demo-preview.png)
+
+*(The live dashboard will be added soon — stay tuned!)*
+
+---
+
+## 📄 License
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 📬 Contact
+
+For questions, collaborations, or feedback:
+
+**Aleksei Stroev**  
+📧 [GitHub Issues](https://github.com/AlekseiStroev/CarrierScope/issues)  
+🌐 [GitHub Repository](https://github.com/AlekseiStroev/CarrierScope)
+
+---
+
+⭐ *If you like this project, don’t forget to give it a star on GitHub!*
