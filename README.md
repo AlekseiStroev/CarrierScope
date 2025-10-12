@@ -1,18 +1,37 @@
 <p align="center">
-  <img src="./47B85726-51E2-4AE7-88CF-5A15DA5A4FC9.png" width="180" alt="CarrierScope Logo">
+  <img src="https://github.com/AlekseiStroev/CarrierScope/blob/main/47B85726-51E2-4AE7-88CF-5A15DA5A4FC9.png" alt="CarrierScope Logo" width="180" />
+</p>
+
+<h1 align="center">CarrierScope</h1>
+
+<p align="center">
+  <em>Quality Intelligence for Logistics</em>  
+  <br>
+  A SaaS platform for analyzing, monitoring, and rating freight brokers and carriers across the U.S.  
 </p>
 
 <p align="center">
-  <a href="https://alekseistroev.github.io/CarrierScope" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Live_Demo-blue?style=for-the-badge" alt="Live Demo">
+  <a href="https://img.shields.io/badge/status-active-brightgreen">
+    <img src="https://img.shields.io/badge/status-active-brightgreen" alt="Status">
+  </a>
+  <a href="https://img.shields.io/badge/license-MIT-blue">
+    <img src="https://img.shields.io/badge/license-MIT-blue" alt="License">
+  </a>
+  <a href="https://img.shields.io/badge/version-1.0.0-orange">
+    <img src="https://img.shields.io/badge/version-1.0.0-orange" alt="Version">
+  </a>
+  <a href="https://img.shields.io/badge/stack-React%20|%20Node.js%20|%20PostgreSQL-lightgrey">
+    <img src="https://img.shields.io/badge/stack-React%20|%20Node.js%20|%20PostgreSQL-lightgrey" alt="Tech Stack">
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square">
-  <img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/version-1.0.0-orange?style=flat-square">
-</p>
+---
+
+### 🧭 Overview
+
+**CarrierScope** is a SaaS platform that helps logistics companies make data-driven decisions by providing transparency, analytics, and verified community feedback.
+
+It allows shippers and carriers to **rate and review freight brokers**, monitor reliability scores, and track service performance across the industry.
 
 ---
 
