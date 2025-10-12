@@ -141,3 +141,16 @@ For questions, collaborations, or feedback:
 ---
 
 ⭐ *If you like this project, don’t forget to give it a star on GitHub!*
+---
+
+<p align="center">
+  <b>© 2025 CarrierScope</b> — Quality Intelligence for Logistics  
+  <br>
+  <a href="https://github.com/AlekseiStroev/CarrierScope">GitHub Repository</a> |
+  <a href="#">Website</a> |
+  <a href="mailto:support@carrierscope.io">Contact Support</a>
+</p>
+
+<p align="center">
+  <sub>Built with ❤️ for the logistics and freight community</sub>
+</p>
