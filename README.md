@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AlekseiStroev/CarrierScope/<p align="center">
-  <img src="https://raw.githubusercontent.com/AlekseiStroev/CarrierScope/main/logo.png" width="180" alt="CarrierScope Logo">
+  <img src="./47B85726-51E2-4AE7-88CF-5A15DA5A4FC9.png" width="180" alt="CarrierScope Logo">
 </p>
 
 [![CI](https://github.com/AlekseiStroev/CarrierScope/actions/workflows/ci.yml/badge.svg)](https://github.com/AlekseiStroev/CarrierScope/actions/workflows/ci.yml)
