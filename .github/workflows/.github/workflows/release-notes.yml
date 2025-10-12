@@ -1,0 +1,32 @@
+name: Release Notes
+
+on:
+  release:
+    types: [published]
+
+permissions:
+  contents: write
+
+jobs:
+  annotate-release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/github-script@v7
+        with:
+          script: |
+            const owner = 'AlekseiStroev';
+            const repo = 'CarrierScope';
+            const releaseId = context.payload.release.id;
+            const pagesUrl = `https://${owner}.github.io/${repo}/`;
+            const codecovUrl = `https://app.codecov.io/gh/${owner}/${repo}`;
+            const { data: rel } = await github.rest.repos.getRelease({ owner, repo, release_id: releaseId });
+            const extra = `
+
+            ---
+
+            ### 🔗 Reports & Dashboards
+            • GitHub Pages (HTML reports hub): ${pagesUrl}  
+            • Codecov coverage dashboard: ${codecovUrl}
+            `;
+            const body = (rel.body || '') + extra;
+            await github.rest.repos.updateRelease({ owner, repo, release_id: releaseId, body });
