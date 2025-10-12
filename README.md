@@ -76,3 +76,14 @@ npm install
 
 # Run the app
 npm run dev
+### 🧱 Project Structure
+```CarrierScope/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   └── utils/
+├── public/
+├── package.json
+└── README.md```
+### 🧠 Contributing
+Pull requests are welcome! ...
