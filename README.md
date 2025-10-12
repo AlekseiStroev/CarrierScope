@@ -1,59 +1,39 @@
 <p align="center">
-  <img src="./47B85726-51E2-4AE7-88CF-5A15DA5A4FC9.png" width="180" alt="CarrierScope Logo">
+  <img src="./logo.png" width="180" alt="CarrierScope Logo">
 </p>
 
-[![CI](https://github.com/AlekseiStroev/CarrierScope/actions/workflows/ci.yml/badge.svg)](https://github.com/AlekseiStroev/CarrierScope/actions/workflows/ci.yml)
-[![coverage](https://img.shields.io/endpoint?url=https://AlekseiStroev.github.io/CarrierScope/badges/coverage.json)](https://AlekseiStroev.github.io/CarrierScope/frontend-coverage/)
-[![Pages](https://img.shields.io/badge/Pages-Reports-blue)](https://AlekseiStroev.github.io/CarrierScope/)
+<h1 align="center">CarrierScope</h1>
 
-# CarrierScope
+<p align="center">
+  <strong>Quality Intelligence for Logistics</strong><br>
+  SaaS platform for analyzing, monitoring, and rating freight brokers and carriers across the U.S.
+</p>
 
-**CarrierScope** is a SaaS platform designed to analyze and monitor the performance of freight brokers and carriers across the United States.  
-It helps logistics companies make data-driven decisions by providing transparency, analytics, and verified community feedback.
-
----
-
-### 🚚 What the platform does
-- Allows shippers and carriers to **rate and review freight brokers** based on real-world experience  
-- Displays **analytics dashboards**, reliability scores, and performance charts  
-- Helps companies **track partner reputation and service quality** before making deals  
+<p align="center">
+  <img src="https://img.shields.io/badge/status-active-brightgreen" alt="status">
+  <img src="https://img.shields.io/badge/license-MIT-blue" alt="license">
+  <img src="https://img.shields.io/badge/version-1.0.0-orange" alt="version">
+</p>
 
 ---
 
-### 🧭 Key Features
-- 📊 Interactive dashboard with broker statistics and KPIs  
-- 📝 Review and rating system for verified users  
-- ⚙️ Automated generation of service quality reports  
-- 🔔 Email alerts and live performance updates  
+## 🚚 What the Platform Does
+
+- Allows shippers and carriers to **rate and review freight brokers** based on real experiences  
+- Displays **analytics dashboards**, performance scores, and reliability statistics  
+- Helps logistics companies **track partner reputation and service quality** before making deals  
 
 ---
 
-### 🧠 In Development
-- 🤖 AI-powered sentiment analysis of broker reviews  
-- 🗺️ U.S. map of broker reliability and reported incidents  
-- 🔗 Integration with FMCSA, DAT, and TruckStop APIs  
+## 🧭 Key Features
+
+- 📊 **Interactive Dashboard** with broker statistics and analytics  
+- 🗣️ **User review system** for verified carriers and brokers  
+- ⚙️ **Automated reporting** on service performance and reliability  
+- 🔔 **Email alerts** and live data updates  
+- 🧠 **AI-based review sentiment analysis** *(in progress)*  
 
 ---
-
-### 🌐 Live Reports
-📊 [CarrierScope Reports Hub](https://alekseistroev.github.io/CarrierScope/)
-
----
-
-### 🧩 Tech Stack (planned)
-- **Frontend:** React + TypeScript  
-- **Backend:** Node.js + Express  
-- **Database:** PostgreSQL  
-- **Hosting:** AWS / GitHub Pages  
-
----
-
-### 🏗️ Roadmap
-1. ✅ CI/CD workflows via GitHub Actions  
-2. ⏳ Frontend MVP (broker analytics dashboard)  
-3. 🚀 Public beta launch and user feedback collection  
-
-------
 
 ## 🧩 Tech Stack
 
@@ -66,19 +46,25 @@ It helps logistics companies make data-driven decisions by providing transparenc
 
 ---
 
-## ⚙️ Installation & Usage
+## 🧱 Roadmap
+
+1. ✅ CI/CD workflows via GitHub Actions  
+2. 🧩 Frontend MVP — Broker Analytics Dashboard  
+3. 🚀 Public beta launch & user feedback collection  
+
+---
+
+## ⚙️ Installation
 
 ```bash
 # Clone the repository
 git clone https://github.com/AlekseiStroev/CarrierScope.git
 
-# Navigate to the project
+# Navigate to the project folder
 cd CarrierScope
 
 # Install dependencies
 npm install
 
-# Run development server
+# Run the app
 npm run dev
-
-© 2025 **CarrierScope** — *Quality Intelligence for Freight Brokerage*
