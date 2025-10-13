@@ -299,3 +299,15 @@ body {
   background:rgba(64,132,255,.18);
   color:#eaf1ff; outline:1px solid rgba(64,132,255,.35);
 }
+/* Layout polish */
+.container{ max-width: 980px; margin:0 auto; padding: 0 16px; }
+
+/* Hero logo size on mobile */
+.hero img, .brand img { max-height: 64px; }
+
+/* Headings scale */
+h1{ font-size: clamp(28px, 6vw, 56px); line-height:1.1; margin:.8rem 0 1rem; }
+h2{ font-size: clamp(20px, 3.5vw, 28px); margin:1.2rem 0 .6rem; }
+
+/* Section anchor offset (чтобы якоря не прятались под шапкой) */
+section, .section{ scroll-margin-top: 84px; }
