@@ -74,3 +74,11 @@ h1{font-size:48px;letter-spacing:.2px;margin:18px 0 6px}
   margin:48px 0 36px;text-align:center;color:var(--muted);
 }
 .footer a{color:#9ec5ff}
+/* Nav */
+.nav{max-width:1100px;margin:0 auto;padding:14px 20px;display:flex;align-items:center;justify-content:space-between}
+.nav .brand{display:flex;align-items:center;font-weight:700;text-decoration:none}
+.nav .nav-logo{width:28px;height:28px;margin-right:10px;border-radius:6px;background:#0b1530}
+.nav .links a{margin-left:18px;text-decoration:none;opacity:.9}
+.nav .links a:hover{opacity:1}
+section.page{max-width:1100px;margin:40px auto;padding:0 20px}
+.hero + section.page{margin-top:10px}
