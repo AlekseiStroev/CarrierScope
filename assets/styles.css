@@ -219,3 +219,62 @@ html { scroll-behavior: smooth; }
 @media (max-width: 480px) {
   .links a { margin-left: 12px; }
 }
+/* ===== Header Cleanup & Alignment ===== */
+.nav {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 24px;
+  background: rgba(12, 15, 25, 0.95); /* чуть темнее и плотнее фон */
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+  backdrop-filter: blur(10px);
+}
+
+.nav .brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+}
+
+.nav .brand span {
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #fff;
+}
+
+.nav-logo {
+  width: 34px;
+  height: 34px;
+  object-fit: contain;
+}
+
+.links {
+  display: flex;
+  align-items: center;
+  gap: 22px;
+}
+
+.links a {
+  text-decoration: none;
+  color: #d5d7e0;
+  font-weight: 500;
+  letter-spacing: 0.3px;
+  transition: all 0.2s ease;
+}
+
+.links a:hover,
+.links a.active {
+  color: #fff;
+  border-bottom: 2px solid #00b7ff;
+  padding-bottom: 2px;
+}
+
+/* Чтобы контент не прятался под шапкой */
+body {
+  padding-top: 72px;
+}
