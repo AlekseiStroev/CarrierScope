@@ -91,6 +91,16 @@
       <a href="mailto:support@carrierscope.io">Contact</a>
     </p>
   </footer>
+<script>
+  // Highlight active navigation link automatically
+  const currentPage = window.location.pathname.split("/").pop();
 
+  document.querySelectorAll(".links a").forEach(link => {
+    const href = link.getAttribute("href");
+    if (href === currentPage || (href.includes("#") && currentPage === "index.html")) {
+      link.classList.add("active");
+    }
+  });
+</script>
 </body>
 </html>
