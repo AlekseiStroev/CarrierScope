@@ -29,5 +29,16 @@
 <footer class="footer">
   <p class="muted small">© 2025 CarrierScope — Quality Intelligence for Logistics</p>
 </footer>
+<script>
+  // Highlight active navigation link automatically
+  const currentPage = window.location.pathname.split("/").pop();
+
+  document.querySelectorAll(".links a").forEach(link => {
+    const href = link.getAttribute("href");
+    if (href === currentPage || (href.includes("#") && currentPage === "index.html")) {
+      link.classList.add("active");
+    }
+  });
+</script>
 </body>
 </html>
