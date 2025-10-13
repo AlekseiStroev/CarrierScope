@@ -278,3 +278,24 @@ html { scroll-behavior: smooth; }
 body {
   padding-top: 72px;
 }
+/* Nav polish */
+.nav {
+  position: sticky; top: 0; z-index: 1000;
+  background: rgba(10,18,28,.85);
+  backdrop-filter: saturate(140%) blur(8px);
+  border-bottom: 1px solid rgba(255,255,255,.06);
+}
+.nav .brand { display:flex; align-items:center; gap:.5rem; }
+.nav .brand img { height:28px; width:auto; }
+.nav .links a{
+  display:inline-block;
+  padding:.6rem .9rem;
+  border-radius:.5rem;
+  color:#cfd8e3; text-decoration:none;
+  transition:background .2s, color .2s, outline .2s;
+}
+.nav .links a:hover{ background:rgba(255,255,255,.06); color:#fff; }
+.nav .links a.active{
+  background:rgba(64,132,255,.18);
+  color:#eaf1ff; outline:1px solid rgba(64,132,255,.35);
+}
