@@ -112,10 +112,11 @@ Pull requests are welcome! ...
 Check out how CarrierScope will look in action 👇
 
 <p align="center">
-  <img src="./22954BD2-9C06-40D2-A0FA-DE6B8CBC5DD5.png" 
-       alt="CarrierScope Dashboard Preview" 
-       width="800" 
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/AlekseiStroev/CarrierScope/main/22954BD2-9C06-40D2-A0FA-DE6B8CBC5DD5.png" 
+       alt="CarrierScope Dashboard Preview" width="800" 
        style="border-radius:10px; border:1px solid #ccc;" />
+</p>
 </p>
 
 <p align="center">
