@@ -201,3 +201,21 @@ figure figcaption {
   margin-top: 10px;
   font-size: clamp(12px, 2vw, 14px);
 }
+/* ===== Sticky header + smooth scroll ===== */
+html { scroll-behavior: smooth; }
+
+.nav {
+  position: sticky;      /* «липкая» шапка */
+  top: 0;
+  z-index: 1000;
+  backdrop-filter: blur(8px);
+  background: rgba(10, 14, 23, .7); /* полупрозрачный фон */
+  border-bottom: 1px solid rgba(255,255,255,.06);
+  box-shadow: 0 6px 18px rgba(0,0,0,.18);
+}
+
+.nav .brand span { font-weight: 600; letter-spacing: .2px; }
+
+@media (max-width: 480px) {
+  .links a { margin-left: 12px; }
+}
